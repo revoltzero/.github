@@ -23,7 +23,7 @@ At The Revolt Zero, we are committed to making the internet a safer place for ev
 |Ataf Fazledin Ahamed|rabidahamed@gmail.com|[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fazledyn.svg?style=social&label=Follow%20%40fazledyn)](https://twitter.com/fazledyn)|
 |Al Arafat Tanin|arafat.rng70@gmail.com|[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/rng70.svg?style=social&label=Follow%20%40rng70)](https://twitter.com/rng70)|
 |Tawsif Shahriar|tawsifshahriar7@gmail.com|[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/tawsifshahriar7.svg?style=social&label=Follow%20%40tawsifshahriar7)](https://twitter.com/tawsifshahriar7)|
-|Shahabor Hossain Rifat|developerrifat909090@gmail.com|[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ShahRiffy.svg?style=social&label=Follow%20%40badWeird0x0)](https://twitter.com/ShahRiffy)|
+|Shahabor Hossain Rifat|developerrifat909090@gmail.com|[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ShahRiffy.svg?style=social&label=Follow%20%ShahRiffy)](https://twitter.com/ShahRiffy)|
 |Hasan Al Mahmud|ha.mahmud@stud.cou.ac.bd|[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/M4HMUD404.svg?style=social&label=Follow%20%40M4HMUD404)](https://twitter.com/M4HMUD404)|
   
 </div>
